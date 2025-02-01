@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou [Seu Nome] </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYGB6zVJltYi1zO/giphy.gif" width="250">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </p>
 
 ---
@@ -9,6 +9,7 @@
 ## 👨‍💻 Sobre Mim  
 🎓 **Estudante de Ciência da Computação** na **UTFPR**  
 💼 **Estagiário Java Web** na **Tecsispe**  
+🌍 **Desenvolvedor Full Stack** com **ReactJS e JSF**  
 🚀 Apaixonado por desenvolvimento backend e tecnologias web  
 📚 Sempre buscando aprender sobre **Java, Spring Boot e Arquitetura de Software**  
 
@@ -19,6 +20,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/JSF-323330?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
