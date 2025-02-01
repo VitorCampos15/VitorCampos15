@@ -1,11 +1,11 @@
-<h1 align="center">👋 Olá! Eu sou vitor </h1>
+<h1 align="center">👋 Olá! Eu sou Vitor Campos </h1>
 
 ---
 
 ## 👨‍💻 Sobre Mim  
 🎓 **Estudante de Ciência da Computação** na **UTFPR**  
 💼 **Estagiário Java Web** na **Tecsispe**  
-💡 **Desenvolvedor Full Stack**, especializado no desenvolvimento de **APIs e aplicações web** usando **Java Spring, JSF e **ReactJS.  
+💡 **Desenvolvedor Full Stack**, especializado no desenvolvimento de **APIs e aplicações web** usando **Java (Spring Boot, JSF) no backend** e **ReactJS no frontend**.  
 ⚡ Tenho grande interesse em **arquitetura de software, microsserviços e soluções escaláveis**.  
 📚 Atualmente, estou aprimorando minhas habilidades em **GraphQL, Docker e bancos de dados relacionais**.  
 
@@ -22,15 +22,6 @@
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-</div>
-
----
-
-## 📊 Estatísticas do GitHub  
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical">
 </div>
 
 ---
