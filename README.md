@@ -1,11 +1,11 @@
-<h1 align="center">👋 Olá! Eu sou [Seu Nome] </h1>
+<h1 align="center">👋 Olá! Eu sou vitor </h1>
 
 ---
 
 ## 👨‍💻 Sobre Mim  
 🎓 **Estudante de Ciência da Computação** na **UTFPR**  
 💼 **Estagiário Java Web** na **Tecsispe**  
-💡 **Desenvolvedor Full Stack**, especializado no desenvolvimento de **APIs e aplicações web** usando **Java (Spring Boot, JSF) no backend** e **ReactJS no frontend**.  
+💡 **Desenvolvedor Full Stack**, especializado no desenvolvimento de **APIs e aplicações web** usando **Java Spring, JSF e **ReactJS.  
 ⚡ Tenho grande interesse em **arquitetura de software, microsserviços e soluções escaláveis**.  
 📚 Atualmente, estou aprimorando minhas habilidades em **GraphQL, Docker e bancos de dados relacionais**.  
 
@@ -38,7 +38,7 @@
 ## 📫 Onde Me Encontrar  
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/seu-perfil">
+  <a href="https://www.linkedin.com/in/vitorcampos15">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://github.com/seu-usuario">
