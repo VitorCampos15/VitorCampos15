@@ -1,17 +1,13 @@
 <h1 align="center">👋 Olá! Eu sou [Seu Nome] </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
-</p>
-
 ---
 
 ## 👨‍💻 Sobre Mim  
 🎓 **Estudante de Ciência da Computação** na **UTFPR**  
 💼 **Estagiário Java Web** na **Tecsispe**  
-🌍 **Desenvolvedor Full Stack** com **ReactJS e JSF**  
-🚀 Apaixonado por desenvolvimento backend e tecnologias web  
-📚 Sempre buscando aprender sobre **Java, Spring Boot e Arquitetura de Software**  
+💡 **Desenvolvedor Full Stack**, especializado no desenvolvimento de **APIs e aplicações web** usando **Java (Spring Boot, JSF) no backend** e **ReactJS no frontend**.  
+⚡ Tenho grande interesse em **arquitetura de software, microsserviços e soluções escaláveis**.  
+📚 Atualmente, estou aprimorando minhas habilidades em **GraphQL, Docker e bancos de dados relacionais**.  
 
 ---
 
