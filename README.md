@@ -1,19 +1,19 @@
-<h1 align="center">Olá! 👋 Sou [Seu Nome]</h1>
+<h1 align="center">👋 Olá! Eu sou [Seu Nome] </h1>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYGB6zVJltYi1zO/giphy.gif" width="300">
+  <a href="https://github.com/seu-usuario">
+    <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
+  </a>
 </p>
 
-### 🔥 Sobre Mim
-- 💻 **Desenvolvedor Backend** com foco em **Java Spring Boot**
-- 📌 Interesse em **arquitetura de software, microsserviços e cloud**
-- 🎯 Buscando desafios e aprendizado contínuo
+## 🚀 Sobre Mim
+💻 Desenvolvedor Backend | 🚀 Apaixonado por inovação  
+📚 Estudando **Arquitetura de Software e Cloud**  
+🔨 Stack Atual: **Java (Spring Boot), GraphQL, PostgreSQL**  
 
-### 🚀 Tecnologias
-🛠 **Stack Principal:**  
-✅ Java, Spring Boot, PostgreSQL  
-✅ GraphQL, REST API, Docker  
-✅ ReactJS (Básico)
+### 📊 Estatísticas do GitHub
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
 
-### 📫 Onde Me Encontrar:
+### 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-perfil)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/seu-usuario)
