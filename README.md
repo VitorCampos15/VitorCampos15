@@ -67,9 +67,8 @@
   <a href="https://www.linkedin.com/in/vitorcampos15">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://github.com/seu-usuario">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
+  <br>
+  📧 **E-mail:** [viitorcampos152.0@gmail.com](mailto:viitorcampos152.0@gmail.com)
 </div>
 
 ---
